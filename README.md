@@ -1,2 +1,3 @@
-# How to use Ai-aimbot 
-##F1 is start toggle 
+#AIエイムアシストを使う方法
+##main.pyを開く。
+#
